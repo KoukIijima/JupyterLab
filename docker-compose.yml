@@ -1,0 +1,12 @@
+version: "2"
+services:
+  jupyterlab:
+    build:
+      context: .
+    user: root
+    ports:
+      - "80:8888"
+    environment:
+      NB_UID: 500 # ← 作業するユーザーのUID
+      GRANT_SUDO: "yes"
+    command: start.sh jupyter lab
