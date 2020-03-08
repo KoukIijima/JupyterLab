@@ -9,5 +9,6 @@ services:
     environment:
       NB_UID: 500 # ← 作業するユーザーのUID
       GRANT_SUDO: "yes"
+    command: start.sh jupyter lab
     volumes:
       - ./JupyterLab:/home/jovyan/work
