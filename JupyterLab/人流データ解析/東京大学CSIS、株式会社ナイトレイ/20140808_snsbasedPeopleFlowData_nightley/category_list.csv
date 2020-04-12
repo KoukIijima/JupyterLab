@@ -1,0 +1,225 @@
+category,min,業種,業種コード
+Accessories Store,40,小売店（各種）,1
+Airport,999,交通,2
+Airport Gate,999,交通,2
+Airport Terminal,999,交通,2
+American Restaurant,120,飲食店,3
+Antique Shop,40,小売店（各種）,1
+Arcade,40,娯楽・レジャー,4
+Art Gallery,180,娯楽・レジャー,4
+Art Museum,180,娯楽・レジャー,4
+Arts & Crafts Store,40,小売店（各種）,1
+arts_entertainment,40,娯楽・レジャー,4
+Asian Restaurant,90,飲食店,3
+Automotive Shop,60,小売店（各種）,1
+Bagel Shop,40,小売店（食料品）,5
+Bakery,40,小売店（食料品）,5
+Bank,30,その他,7
+Bar,90,飲食店,3
+Baseball Field,120,娯楽・レジャー,4
+Baseball Stadium,120,娯楽・レジャー,4
+BBQ Joint,180,飲食店,3
+Beer Garden,120,飲食店,3
+Bike Shop,30,小売店（各種）,1
+Board Shop,30,小売店（各種）,1
+Boat or Ferry,90,交通,2
+Bookstore,60,小売店（各種）,1
+Boutique,40,小売店（各種）,1
+Bowling Alley,120,娯楽・レジャー,4
+Breakfast Spot,30,飲食店,3
+Brewery,90,娯楽・レジャー,4
+Bridge,20,交通,2
+Building,180,その他,7
+building,180,その他,7
+Burger Joint,40,飲食店,3
+Bus Line,20,交通,2
+Bus Station,20,交通,2
+Butcher,20,小売店（食料品）,5
+Caf?,60,飲食店,3
+Cafeteria,60,飲食店,3
+Candy Store,40,小売店（食料品）,5
+Capitol Building,120,その他,7
+Casino,180,娯楽・レジャー,4
+Cemetery,40,その他,7
+Chinese Restaurant,90,飲食店,3
+City,180,その他,7
+City Hall,120,その他,7
+Clothing Store,40,小売店（各種）,1
+Cocktail Bar,120,飲食店,3
+Coffee Shop,60,飲食店,3
+College & University,120,教育,6
+College Academic Building,120,教育,6
+College Administrative Building,120,教育,6
+College Auditorium,120,教育,6
+College Bookstore,120,小売店（各種）,1
+College Cafeteria,120,飲食店,3
+College Classroom,120,教育,6
+College Dorm,120,教育,6
+College Engineering Building,120,教育,6
+College Gym,120,教育,6
+College Lab,120,教育,6
+College Library,120,教育,6
+College Quad,120,教育,6
+College Rec Center,120,教育,6
+College Science Building,120,教育,6
+College Technology Building,120,教育,6
+Comedy Club,120,娯楽・レジャー,4
+Community College,90,教育,6
+Concert Hall,120,娯楽・レジャー,4
+Convenience Store,20,小売店（各種）,1
+Convention Center,120,娯楽・レジャー,4
+Cosmetics Shop,40,小売店（各種）,1
+Coworking Space,40,その他,7
+Deli or Bodega,40,小売店（食料品）,5
+Department Store,90,小売店（各種）,1
+Design Studio,120,その他,7
+Dessert Shop,40,小売店（食料品）,5
+Diner,120,飲食店,3
+Doctor's Office,90,その他,7
+Dog Run,60,娯楽・レジャー,4
+Donut Shop,40,飲食店,3
+Drugstore or Pharmacy,40,小売店（各種）,1
+Dumpling Restaurant,90,飲食店,3
+Electronics Store,60,小売店（各種）,1
+Embassy or Consulate,60,その他,7
+Event Space,90,娯楽・レジャー,4
+Farmers Market,40,小売店（食料品）,5
+Fast Food Restaurant,60,飲食店,3
+Field,90,その他,7
+Fire Station,40,その他,7
+Fish Market,60,小売店（食料品）,5
+Flower Shop,40,小売店（各種）,1
+Food,90,小売店（食料品）,5
+food,90,小売店（食料品）,5
+Food & Drink Shops,90,小売店（食料品）,5
+Food Court,90,飲食店,3
+French Restaurant,120,飲食店,3
+Furniture or Home Store,90,小売店（各種）,1
+Gaming Cafe,90,飲食店,3
+Garden,180,娯楽・レジャー,4
+Gastropub,120,飲食店,3
+General College & University,180,教育,6
+General Entertainment,180,娯楽・レジャー,4
+General Travel,180,娯楽・レジャー,4
+German Restaurant,180,飲食店,3
+Gift Shop,60,小売店（各種）,1
+Gourmet Shop,60,小売店（食料品）,5
+Government Building,180,その他,7
+Grocery or Supermarkets,120,小売店（食料品）,5
+Grocery Store,120,小売店（食料品）,5
+Gym,180,娯楽・レジャー,4
+Gym / Fitness Center,180,娯楽・レジャー,4
+Gym or Fitness Center,120,娯楽・レジャー,4
+Hardware Store,60,小売店（各種）,1
+High School,120,教育,6
+Hiking Trail,90,娯楽・レジャー,4
+Historic Site,180,娯楽・レジャー,4
+History Museum,180,娯楽・レジャー,4
+Hobby Shop,60,小売店（各種）,1
+Hospital,180,その他,7
+Hot Spring,180,娯楽・レジャー,4
+Hotel,999,娯楽・レジャー,4
+Ice Cream Shop,40,小売店（食料品）,5
+Indian Restaurant,120,飲食店,3
+Indie Movie Theater,120,娯楽・レジャー,4
+Indonesian Restaurant,120,飲食店,3
+Italian Restaurant,120,飲食店,3
+Japanese Restaurant,120,飲食店,3
+Jazz Club,180,飲食店,3
+Juice Bar,120,飲食店,3
+Karaoke Bar,180,飲食店,3
+Korean Restaurant,120,飲食店,3
+Lake,120,娯楽・レジャー,4
+Laundromat or Dry Cleaner,120,その他,7
+Law School,180,教育,6
+Library,120,その他,7
+Light Rail,120,交通,2
+Malaysian Restaurant,120,飲食店,3
+Mall,180,小売店（各種）,1
+Medical Center,180,その他,7
+Meeting Room,120,その他,7
+Men's Store,60,小売店（各種）,1
+Middle Eastern Restaurant,120,飲食店,3
+Military Base,60,その他,7
+Miscellaneous Shop,60,小売店（各種）,1
+Monument or Landmark,120,娯楽・レジャー,4
+Movie Theater,150,娯楽・レジャー,4
+Multiplex,150,娯楽・レジャー,4
+Museum,180,娯楽・レジャー,4
+Music Store,60,小売店（各種）,1
+Music Venue,120,娯楽・レジャー,4
+Neighborhood,40,その他,7
+Nightclub,120,飲食店,3
+nightlife,120,娯楽・レジャー,4
+Nightlife Spot,120,娯楽・レジャー,4
+Office,240,その他,7
+Other Great Outdoors,180,娯楽・レジャー,4
+Other Nightlife,120,娯楽・レジャー,4
+Paper or Office Supplies Store,60,小売店（各種）,1
+Park,90,娯楽・レジャー,4
+Parking,40,交通,2
+parks_outdoors,90,交通,2
+Pier,90,交通,2
+Pizza Place,120,飲食店,3
+Platform,120,交通,2
+Playground,150,娯楽・レジャー,4
+Plaza,180,娯楽・レジャー,4
+Police Station,60,その他,7
+Post Office,40,その他,7
+Professional & Other,120,その他,7
+Pub,120,飲食店,3
+Ramen / Noodle House,60,飲食店,3
+Ramen or Noodle House,60,飲食店,3
+Record Shop,60,小売店（各種）,1
+Religious Center,90,その他,7
+Resort,120,娯楽・レジャー,4
+Rest Area,120,娯楽・レジャー,4
+Restaurant,120,飲食店,3
+Rock Club,120,娯楽・レジャー,4
+Sake Bar,120,飲食店,3
+Salon / Barbershop,120,その他,7
+Salon or Barbershop,120,その他,7
+Sandwich Place,120,飲食店,3
+Scenic Lookout,180,娯楽・レジャー,4
+School,240,教育,6
+Sculpture Garden,120,娯楽・レジャー,4
+Seafood Restaurant,120,飲食店,3
+Shoe Store,60,小売店（各種）,1
+Shop & Service,60,小売店（各種）,1
+shops,60,小売店（各種）,1
+Shrines,60,その他,7
+Smoke Shop,60,小売店（各種）,1
+Sorority House,180,娯楽・レジャー,4
+Soup Place,60,飲食店,3
+Spa or Massage,120,娯楽・レジャー,4
+Spanish Restaurant,120,飲食店,3
+Speakeasy,120,飲食店,3
+Sporting Goods Shop,60,小売店（各種）,1
+Sports Bar,120,飲食店,3
+Stadium,180,娯楽・レジャー,4
+Steakhouse,120,飲食店,3
+Student Center,60,教育,6
+Sushi Restaurant,120,飲食店,3
+Tea Room,120,飲食店,3
+Tech Startup,90,その他,7
+Temple,60,その他,7
+Thai Restaurant,120,飲食店,3
+Theater,150,娯楽・レジャー,4
+Theme Park,180,娯楽・レジャー,4
+Thrift / Vintage Store,60,小売店（各種）,1
+Toy or Game Store,120,小売店（各種）,1
+Track,120,交通,2
+Train Station,40,交通,2
+travel,60,娯楽・レジャー,4
+Travel & Transport,60,娯楽・レジャー,4
+University,180,教育,6
+Video Game Store,60,小売店（各種）,1
+Video Store,90,小売店（各種）,1
+Vietnamese Restaurant,90,飲食店,3
+Water Park,120,娯楽・レジャー,4
+Wine Bar,90,飲食店,3
+Winery,60,娯楽・レジャー,4
+Wings Joint,60,飲食店,3
+Women's Store,60,小売店（各種）,1
+Zoo,180,娯楽・レジャー,4
+Zoo or Aquarium,180,娯楽・レジャー,4
